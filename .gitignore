@@ -1,0 +1,22 @@
+# data / privacy
+*.xlsx
+*.xls
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# notebooks
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# temp
+_tmp*/
+*.tmp
