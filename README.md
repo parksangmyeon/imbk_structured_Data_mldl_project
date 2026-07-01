@@ -185,10 +185,6 @@ score_final = 0.5 * cf_score_normalized + 0.5 * ml_score_normalized
 |-- README.md
 |-- notebooks/
 |   `-- modeling_pipeline.ipynb
-|-- docs/
-|   |-- presentation.pdf
-|   |-- presentation.pptx
-|   `-- loop_engineering_review.md
 `-- assets/
 ```
 
